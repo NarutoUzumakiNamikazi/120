@@ -1,0 +1,14 @@
+body{
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    width: 200px;
+    border-radius: 20px;
+}
+li{
+    padding-bottom: 20px;
+    list-style: none;
+}
